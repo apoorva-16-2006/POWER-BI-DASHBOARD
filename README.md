@@ -19,6 +19,10 @@ Power Query
 Basic DAX
 
 Data Modeling & Visualization
+Show what the AMAZON SALES dashboard looks like page 1.- (https://github.com/apoorva-16-2006/POWER-BI-DASHBOARD/blob/main/POWER%20BI%20DASHBOARD/sales/amazon_sales_page1.png)
+
+Show what the AMAZON SALES dashboard looks like page 2.- (https://github.com/apoorva-16-2006/POWER-BI-DASHBOARD/blob/main/POWER%20BI%20DASHBOARD/sales/amazon_sales_page2.png)
+
 
 🎯 Purpose
 
