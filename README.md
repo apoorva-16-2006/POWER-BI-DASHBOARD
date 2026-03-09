@@ -13,20 +13,23 @@ The purpose of this project is to demonstrate **data analytics, visualization, a
 Analyzes overall **sales performance across regions, categories, and states** to identify trends and business insights.
 
 #### Key Insights
-- Total Sales and Average Order Value  
-- Sales by Region  
-- Sales by Category and Subcategory  
-- Sales distribution across states  
-- Delivery time analysis  
-- Sales by Ship Mode  
+- Total Sales and Average Order Value
+- Sales distribution across categories
+- Regional sales performance
+- Geographic sales analysis using maps
+- Top 10 and Bottom 10 states by revenue
+- Monthly sales trends
+- Category performance over time
+- Sales comparison by region and category
 
 #### Visualizations Used
-- KPI Cards  
-- Bar Charts  
-- Line Charts  
-- Maps  
-- Tables  
-- Category Filters  
+- KPI Cards
+- Pie Charts
+- Bar Charts
+- Line Charts
+- Area Charts
+- Map Visualization
+- Tables for Top & Bottom States
 
 ---
 
